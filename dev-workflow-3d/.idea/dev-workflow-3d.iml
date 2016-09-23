@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/web/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/web/textures/compressed/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/web/textures/cube/Bridge2/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/web/textures/cube/MilkyWay/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/web/textures/cube/Park2/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/web/textures/cube/Park3Med/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/web/textures/cube/SwedishRoyalCastle/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/web/textures/cube/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/web/textures/cube/pisa/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/web/textures/cube/pisaHDR/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/web/textures/cube/pisaRGBM16/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/web/textures/cube/skybox/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/web/textures/decal/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/web/textures/lava/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/web/textures/lensflare/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/web/textures/minecraft/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/web/textures/normal/ninja/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/web/textures/normal/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/web/textures/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/web/textures/patterns/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/web/textures/planets/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/web/textures/sprites/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/web/textures/terrain/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/web/textures/transition/packages" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="application" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+  </component>
+</module>
