@@ -19,5 +19,11 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.6.1"
+  threejs:
+    description:
+      path: "../threejs"
+      relative: true
+    source: path
+    version: "0.0.1"
 sdks:
   dart: ">=1.19.0-dev.0.0 <2.0.0"
